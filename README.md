@@ -39,7 +39,7 @@ The world of Machine Learning and Deep Learning excites me because of its unpred
 ### 🏆 Competitive Programming
 - **CodeChef**: [shunsuikyoraku](https://www.codechef.com/users/shunsuikyoraku)  
 - **Codeforces**: [PranjalBisen](https://codeforces.com/profile/PranjalBisen)  
-- **LeetCode**: [shunsuikyoraku]([https://leetcode.com/u/shunsuikyoraku/](https://leetcode.com/u/PranjalBisen/))
+- **LeetCode**: [shunsuikyoraku](https://leetcode.com/u/PranjalBisen/)
 
 ---
 
